@@ -21,10 +21,10 @@ Edit
 
 ---
 
-## 🔧 Tech Stack & Tools
+##  Tech Stack & Tools
 
-- **Language:** Python 3.x  
-- **Libraries:** 
+- Language: Python 3.x  
+- Libraries:
   - `pandas`, `numpy`, `matplotlib`, `seaborn`
   - `scikit-learn`, `xgboost`
   - `imbalanced-learn` (for SMOTE)
@@ -34,7 +34,7 @@ Edit
 
 ---
 
-## 🧠 Machine Learning Models Used
+##  Machine Learning Models Used
 
 - Logistic Regression  
 - Random Forest  
@@ -43,7 +43,7 @@ Edit
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - Source: [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - Contains transactions made by European cardholders in 2013.
@@ -52,7 +52,7 @@ Edit
 
 ---
 
-## 🧪 Evaluation Metrics
+##  Evaluation Metrics
 
 - Accuracy
 - Precision
@@ -63,13 +63,13 @@ Edit
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/yourusername/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 pip install -r requirements.txt
-🚀 Usage
+ Usage
 bash
 Copy
 Edit
